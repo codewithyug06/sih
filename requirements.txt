@@ -1,0 +1,22 @@
+# Updated requirements.txt for KMRL AI Control Center Project
+
+# Core Python Data Processing
+numpy
+pandas
+
+# Network Modeling & Simulation Environment
+networkx
+gymnasium
+
+# Web Dashboard (Plotly Dash)
+dash
+plotly
+
+# Server for Production/Deployment (Recommended for Dash apps)
+gunicorn
+
+# Optional: Libraries initially included for potential future ML/deep learning
+# Although the SimAnnealing is custom, keeping for future scaling:
+torch 
+
+# [cite_start]Note: The original requirements file was used as a base [cite: 1]
